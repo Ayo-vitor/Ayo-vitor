@@ -1,3 +1,8 @@
+<!---especial repositório sobre o github --->
+
+<!---comentario, serve para para esconder ou ocultar dados --->
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8cZ5CBzHRCXZmyOZtY39IU80POdf3Mw1wQ&s)
+
 # sobre mim **vitor**
 - 👋 **Ola, eu sou @Ayo-vitor**
 - 👀 Eu estou interessado em aprender novas linguagem de programação
